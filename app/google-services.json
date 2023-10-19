@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811829913084",
+    "project_id": "society-man",
+    "storage_bucket": "society-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811829913084:android:064258d9b0331e71bc7e79",
+        "android_client_info": {
+          "package_name": "com.rameshwar.societyman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811829913084-bb3krnb22lnsv9fd3g2370gu3qhvf7ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZco0ltR7cZI5nWO6U3oK55yoi8weOz-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811829913084-bb3krnb22lnsv9fd3g2370gu3qhvf7ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Society Man</string>
+    <string name="date">Date :</string>
+    <string name="date1">date</string>
+    <string name="time">Time :</string>
+    <string name="time1">time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
